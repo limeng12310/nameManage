@@ -1,0 +1,7 @@
+
+/* Search form */
+.search { padding:0; margin:0;}
+.search span { width:405px; display:block; background:#FFF; height:35px; margin:0 auto; padding:0; border:1px solid #e1dddd;}
+.search input#s { float:left; width:360px; height:35px;padding:7px 0 7px 10px; margin:0; border:0; background:none; color:#afaeae; font:normal 12px/15px Arial, Helvetica, sans-serif; }
+.search .btn { float:left; padding:0; margin:0; border:0; width:auto; height:33px;}
+
